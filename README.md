@@ -1,1 +1,1 @@
-# Tableau-Dashboard-Capstone-Project
+Created a Tableau Dashboard Capstone Project focusing on Airbnb's business KPI analysis. Cleaned and extracted data from diverse Airbnb datasets to ensure data accuracy. Presented key insights on revenue, occupancy rates, pricing trends, and customer reviews. Enabled interactive data exploration for users. Demonstrated expertise in data analysis and data visualization for strategic decision-making.# Tableau-Dashboard-Capstone-Project
